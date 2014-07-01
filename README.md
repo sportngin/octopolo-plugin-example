@@ -20,6 +20,19 @@ Or install it yourself as:
     $ gem install octopolo-plugin-example
 
 
+Usage
+-----
+
+Include this in your `.octopolo.yml`:
+
+```yaml
+plugins:
+  - octopolo_plugin_example
+```
+
+And the plugin should be automatically loaded when octopolo is initialized.
+
+
 Contributing
 ------------
 
