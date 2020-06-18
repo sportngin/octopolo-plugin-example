@@ -1,4 +1,3 @@
-  
 deploy_branch: master
 github_repo: sportngin/octopolo-plugin-example
 branches_to_keep:
