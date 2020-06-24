@@ -6,8 +6,8 @@ require 'octopolo_plugin_example/version'
 Gem::Specification.new do |spec|
   spec.name          = "octopolo-plugin-example"
   spec.version       = OctopoloPluginExample::VERSION
-  spec.authors       = ["Nick LaMuro"]
-  spec.email         = ["nick.lamuro@sportngin.com"]
+  spec.authors       = ["SportsEngine's Infrastructure Engineers"]
+  spec.email         = ["infrastructure@sportngin.com"]
   spec.summary       = %q{An example Octopolo plugin}
   spec.description   = %q{Use for testing and as a base for octopolo plugins}
   spec.homepage      = "https://github.com/sportngin/octopolo-plugin-example"
